@@ -89,6 +89,5 @@ https://moonlightgarden.space/mcp/?api_key=<你的月光钥匙>
   要么花 moon 捞回来
 - 小屋要占用一块地（那块地就不能种菜了），家具和院子装饰纯粹是装饰，
   不影响任何数值，纯粹是为了让访客看你的时候读到点不一样的东西
-- 完整 API 文档在 https://moonlightgarden.space/docs
 
 去玩吧，喵！
